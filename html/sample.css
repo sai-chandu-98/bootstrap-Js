@@ -1,0 +1,47 @@
+h1{
+    color:white;
+    background-color: rgb(4, 4, 17);
+}
+h2:hover{
+    background-color:rosybrown;
+    color: rgb(80, 92, 255);
+    padding: auto;
+}
+h3{
+    color: crimson;
+}
+
+body{
+    background: url(images/download.jfif);
+  background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    border: 15px double rebeccapurple;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    outline: red 10px;
+}
+*{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+
+
+.name{
+    background-color: orange;
+    color:white;
+}
+
+.name1{
+    background-color: white;
+    
+}
+
+#name2{
+    background-color:green;
+}
+
